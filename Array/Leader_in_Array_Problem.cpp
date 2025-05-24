@@ -18,10 +18,20 @@ void leaderInArray(int arr[], int n) {
         }
     }
 }
-
+//optmized Approach//
+void LeaderOptimized(int arr[],int n) {
+    int last_element = arr[n-1];
+    cout<<last_element<<" ";
+    for (int i=n-2;i>=0;i--) {
+        if (arr[i]>last_element) {
+            cout<<arr[i]<<" ";
+            last_element = arr[i];
+        }
+    }
+}
 int main() {
     int arr[] = {16, 17, 4, 3, 5, 2};
     int n = sizeof(arr) / sizeof(arr[0]);
-    leaderInArray(arr, n);
+    LeaderOptimized(arr, n);
     return 0;
 }
