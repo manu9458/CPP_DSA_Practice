@@ -17,8 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f83446d9-ea60-4489-b19b-84dec31780a9" name="Changes" comment="Hello World">
-      <change afterPath="$PROJECT_DIR$/Array/LeftRotateArrayByD.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Leader_in_Array_Problem.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +43,9 @@
     &quot;accountId&quot;: &quot;d7984984-dd78-49b7-8dc2-2282c1693bf5&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///AIAssistantSnippet.." root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -55,7 +57,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "C/C++ File.Hello_World.cpp.executor": "Run",
+    "C/C++ File.Leader_in_Array_Problem.cpp.executor": "Run",
     "C/C++ File.LeftRotateArrayByD.cpp.executor": "Run",
+    "C/C++ File.MoveZeroToEnd.cpp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -75,9 +79,15 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.LeftRotateArrayByD.cpp">
+  <component name="RunManager" selected="C/C++ File.Leader_in_Array_Problem.cpp">
     <configuration name="Hello_World.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="Hello_World.cpp" CONFIG_NAME="Hello_World.cpp">
       <option name="sourceFile" value="Array\Hello_World.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leader_in_Array_Problem.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="Leader_in_Array_Problem.cpp" CONFIG_NAME="Leader_in_Array_Problem.cpp">
+      <option name="sourceFile" value="Array\Leader_in_Array_Problem.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -88,8 +98,16 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MoveZeroToEnd.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="MoveZeroToEnd.cpp" CONFIG_NAME="MoveZeroToEnd.cpp">
+      <option name="sourceFile" value="Array\MoveZeroToEnd.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.Leader_in_Array_Problem.cpp" />
+        <item itemvalue="C/C++ File.MoveZeroToEnd.cpp" />
         <item itemvalue="C/C++ File.LeftRotateArrayByD.cpp" />
         <item itemvalue="C/C++ File.Hello_World.cpp" />
       </list>
@@ -104,7 +122,7 @@
       <updated>1747594153354</updated>
       <workItem from="1747594154619" duration="116000" />
       <workItem from="1747594279301" duration="267000" />
-      <workItem from="1748100099025" duration="571000" />
+      <workItem from="1748100099025" duration="2429000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World">
       <option name="closed" value="true" />
