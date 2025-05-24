@@ -16,10 +16,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f83446d9-ea60-4489-b19b-84dec31780a9" name="Changes" comment="Hello World">
-      <change afterPath="$PROJECT_DIR$/Array/Frequency_in_Sorted_Array.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f83446d9-ea60-4489-b19b-84dec31780a9" name="Changes" comment="Hello World" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +58,7 @@
     "C/C++ File.Hello_World.cpp.executor": "Run",
     "C/C++ File.Leader_in_Array_Problem.cpp.executor": "Run",
     "C/C++ File.LeftRotateArrayByD.cpp.executor": "Run",
+    "C/C++ File.MaxDiffProblem.cpp.executor": "Run",
     "C/C++ File.MoveZeroToEnd.cpp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
@@ -81,15 +79,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.Frequency_in_Sorted_Array.cpp">
+  <component name="RunManager" selected="C/C++ File.MaxDiffProblem.cpp">
     <configuration name="Frequency_in_Sorted_Array.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="Frequency_in_Sorted_Array.cpp" CONFIG_NAME="Frequency_in_Sorted_Array.cpp">
       <option name="sourceFile" value="Array\Frequency_in_Sorted_Array.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Hello_World.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="Hello_World.cpp" CONFIG_NAME="Hello_World.cpp">
-      <option name="sourceFile" value="Array\Hello_World.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -106,6 +98,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaxDiffProblem.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="MaxDiffProblem.cpp" CONFIG_NAME="MaxDiffProblem.cpp">
+      <option name="sourceFile" value="Array\MaxDiffProblem.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MoveZeroToEnd.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="MoveZeroToEnd.cpp" CONFIG_NAME="MoveZeroToEnd.cpp">
       <option name="sourceFile" value="Array\MoveZeroToEnd.cpp" />
       <method v="2">
@@ -114,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.MaxDiffProblem.cpp" />
         <item itemvalue="C/C++ File.Frequency_in_Sorted_Array.cpp" />
         <item itemvalue="C/C++ File.Leader_in_Array_Problem.cpp" />
         <item itemvalue="C/C++ File.MoveZeroToEnd.cpp" />
         <item itemvalue="C/C++ File.LeftRotateArrayByD.cpp" />
-        <item itemvalue="C/C++ File.Hello_World.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +129,7 @@
       <updated>1747594153354</updated>
       <workItem from="1747594154619" duration="116000" />
       <workItem from="1747594279301" duration="267000" />
-      <workItem from="1748100099025" duration="4251000" />
+      <workItem from="1748100099025" duration="4844000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World">
       <option name="closed" value="true" />
