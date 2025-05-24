@@ -1,7 +1,6 @@
 //
 // Created by Manu on 5/24/2025.
 //
-
 #include<iostream>
 using namespace std;
 // Function to calculate trapped rainwater between buildings
