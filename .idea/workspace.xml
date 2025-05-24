@@ -17,9 +17,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f83446d9-ea60-4489-b19b-84dec31780a9" name="Changes" comment="Hello World">
-      <change afterPath="$PROJECT_DIR$/Array/MaxConsicutiveOne.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/MaximumSubaraySum.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/TrappingRainWaterProblem.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Array/TrappingRainWaterProblem.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +66,7 @@
     "C/C++ File.LeftRotateArrayByD.cpp.executor": "Run",
     "C/C++ File.MaxConsicutiveOne.cpp.executor": "Run",
     "C/C++ File.MaxDiffProblem.cpp.executor": "Run",
+    "C/C++ File.MaximumSubaraySum.cpp.executor": "Run",
     "C/C++ File.MoveZeroToEnd.cpp.executor": "Run",
     "C/C++ File.StockSellBuy.cpp.executor": "Run",
     "C/C++ File.TrappingRainWaterProblem.cpp.executor": "Run",
@@ -89,13 +89,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.MaxConsicutiveOne.cpp">
-    <configuration name="Frequency_in_Sorted_Array.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="Frequency_in_Sorted_Array.cpp" CONFIG_NAME="Frequency_in_Sorted_Array.cpp">
-      <option name="sourceFile" value="Array\Frequency_in_Sorted_Array.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.MaximumSubaraySum.cpp">
     <configuration name="MaxConsicutiveOne.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="MaxConsicutiveOne.cpp" CONFIG_NAME="MaxConsicutiveOne.cpp">
       <option name="sourceFile" value="Array\MaxConsicutiveOne.cpp" />
       <method v="2">
@@ -104,6 +98,12 @@
     </configuration>
     <configuration name="MaxDiffProblem.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="MaxDiffProblem.cpp" CONFIG_NAME="MaxDiffProblem.cpp">
       <option name="sourceFile" value="Array\MaxDiffProblem.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumSubaraySum.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="MaximumSubaraySum.cpp" CONFIG_NAME="MaximumSubaraySum.cpp">
+      <option name="sourceFile" value="Array\MaximumSubaraySum.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.MaximumSubaraySum.cpp" />
         <item itemvalue="C/C++ File.MaxConsicutiveOne.cpp" />
         <item itemvalue="C/C++ File.TrappingRainWaterProblem.cpp" />
         <item itemvalue="C/C++ File.StockSellBuy.cpp" />
         <item itemvalue="C/C++ File.MaxDiffProblem.cpp" />
-        <item itemvalue="C/C++ File.Frequency_in_Sorted_Array.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +139,7 @@
       <updated>1747594153354</updated>
       <workItem from="1747594154619" duration="116000" />
       <workItem from="1747594279301" duration="267000" />
-      <workItem from="1748100099025" duration="6708000" />
+      <workItem from="1748100099025" duration="7353000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World">
       <option name="closed" value="true" />
