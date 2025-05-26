@@ -17,7 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f83446d9-ea60-4489-b19b-84dec31780a9" name="Changes" comment="Hello World">
-      <change afterPath="$PROJECT_DIR$/Array/EquibriliumPoint.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Single Linked List/SearchInLinkedList.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +71,7 @@
     "C/C++ File.MaximumSubaraySum.cpp.executor": "Run",
     "C/C++ File.MaximumSumOfSubarray.cpp.executor": "Run",
     "C/C++ File.MoveZeroToEnd.cpp.executor": "Run",
+    "C/C++ File.SearchInLinkedList.cpp.executor": "Run",
     "C/C++ File.StockSellBuy.cpp.executor": "Run",
     "C/C++ File.TrappingRainWaterProblem.cpp.executor": "Run",
     "C/C++ File.longestUniqueSubstring.cpp.executor": "Run",
@@ -93,7 +94,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.EquibriliumPoint.cpp">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\C++ Practice\Array" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.SearchInLinkedList.cpp">
     <configuration name="EquibriliumPoint.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="EquibriliumPoint.cpp" CONFIG_NAME="EquibriliumPoint.cpp">
       <option name="sourceFile" value="Array\EquibriliumPoint.cpp" />
       <method v="2">
@@ -106,14 +112,14 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumSubaraySum.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="MaximumSubaraySum.cpp" CONFIG_NAME="MaximumSubaraySum.cpp">
-      <option name="sourceFile" value="Array\MaximumSubaraySum.cpp" />
+    <configuration name="MaximumSumOfSubarray.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="MaximumSumOfSubarray.cpp" CONFIG_NAME="MaximumSumOfSubarray.cpp">
+      <option name="sourceFile" value="Array\MaximumSumOfSubarray.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumSumOfSubarray.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="MaximumSumOfSubarray.cpp" CONFIG_NAME="MaximumSumOfSubarray.cpp">
-      <option name="sourceFile" value="Array\MaximumSumOfSubarray.cpp" />
+    <configuration name="SearchInLinkedList.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="SearchInLinkedList.cpp" CONFIG_NAME="SearchInLinkedList.cpp">
+      <option name="sourceFile" value="LinkedList\Single Linked List\SearchInLinkedList.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -126,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.SearchInLinkedList.cpp" />
         <item itemvalue="C/C++ File.EquibriliumPoint.cpp" />
         <item itemvalue="C/C++ File.longestUniqueSubstring.cpp" />
         <item itemvalue="C/C++ File.MaximumSumOfSubarray.cpp" />
         <item itemvalue="C/C++ File.MajorityElement.cpp" />
-        <item itemvalue="C/C++ File.MaximumSubaraySum.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +151,8 @@
       <workItem from="1747594279301" duration="267000" />
       <workItem from="1748100099025" duration="8518000" />
       <workItem from="1748151914704" duration="206000" />
-      <workItem from="1748152149522" duration="3597000" />
+      <workItem from="1748152149522" duration="4227000" />
+      <workItem from="1748278504285" duration="338000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World">
       <option name="closed" value="true" />
