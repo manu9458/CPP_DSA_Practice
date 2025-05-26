@@ -25,6 +25,7 @@ Node *insertAtBegin(Node *head, int data) {
     temp->next = head;
     return temp;
 }
+
 int main() {
     Node *head = new Node(10);
     head->next = new Node(20);

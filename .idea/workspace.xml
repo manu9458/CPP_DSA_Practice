@@ -17,8 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f83446d9-ea60-4489-b19b-84dec31780a9" name="Changes" comment="Hello World">
-      <change afterPath="$PROJECT_DIR$/LinkedList/Single Linked List/SearchInLinkedList.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/InsertAtBegin.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/InsertAtBegin.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +62,7 @@
     "C/C++ File.EquibriliumPoint.cpp.executor": "Run",
     "C/C++ File.Frequency_in_Sorted_Array.cpp.executor": "Run",
     "C/C++ File.Hello_World.cpp.executor": "Run",
+    "C/C++ File.InsertAtBegin.cpp.executor": "Run",
     "C/C++ File.Leader_in_Array_Problem.cpp.executor": "Run",
     "C/C++ File.LeftRotateArrayByD.cpp.executor": "Run",
     "C/C++ File.MajorityElement.cpp.executor": "Run",
@@ -99,15 +99,15 @@
       <recent name="F:\C++ Practice\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.SearchInLinkedList.cpp">
+  <component name="RunManager" selected="C/C++ File.InsertAtBegin.cpp">
     <configuration name="EquibriliumPoint.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="EquibriliumPoint.cpp" CONFIG_NAME="EquibriliumPoint.cpp">
       <option name="sourceFile" value="Array\EquibriliumPoint.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MajorityElement.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="MajorityElement.cpp" CONFIG_NAME="MajorityElement.cpp">
-      <option name="sourceFile" value="Array\MajorityElement.cpp" />
+    <configuration name="InsertAtBegin.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="InsertAtBegin.cpp" CONFIG_NAME="InsertAtBegin.cpp">
+      <option name="sourceFile" value="LinkedList\InsertAtBegin.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.InsertAtBegin.cpp" />
         <item itemvalue="C/C++ File.SearchInLinkedList.cpp" />
         <item itemvalue="C/C++ File.EquibriliumPoint.cpp" />
         <item itemvalue="C/C++ File.longestUniqueSubstring.cpp" />
         <item itemvalue="C/C++ File.MaximumSumOfSubarray.cpp" />
-        <item itemvalue="C/C++ File.MajorityElement.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +152,7 @@
       <workItem from="1748100099025" duration="8518000" />
       <workItem from="1748151914704" duration="206000" />
       <workItem from="1748152149522" duration="4227000" />
-      <workItem from="1748278504285" duration="338000" />
+      <workItem from="1748278504285" duration="765000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World">
       <option name="closed" value="true" />
