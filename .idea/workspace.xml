@@ -17,8 +17,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f83446d9-ea60-4489-b19b-84dec31780a9" name="Changes" comment="Hello World">
-      <change afterPath="$PROJECT_DIR$/LinkedList/Circular Linked List/Circular_Linked_list.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Single Linked List/ReverseKSize.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circular_Linked_list.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/DeleteFirstNode.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/InsertAtBegin.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/InsertAtEnd.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/ReverseLinkedList.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/SearchInLinkedList.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseLinkedList.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,46 +61,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.DeleteFirstNode.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.EquibriliumPoint.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Frequency_in_Sorted_Array.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Hello_World.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.InsertAtBegin.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.InsertAtEnd.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Leader_in_Array_Problem.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.LeftRotateArrayByD.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.MajorityElement.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.MaxConsicutiveOne.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.MaxDiffProblem.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.MaximumSubaraySum.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.MaximumSumOfSubarray.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.MoveZeroToEnd.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.ReverseLinkedList.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.SearchInLinkedList.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.StockSellBuy.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.TrappingRainWaterProblem.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.longestUniqueSubstring.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/C++ Practice&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.Circular_Linked_list.cpp.executor": "Run",
+    "C/C++ File.DeleteFirstNode.cpp.executor": "Run",
+    "C/C++ File.EquibriliumPoint.cpp.executor": "Run",
+    "C/C++ File.Frequency_in_Sorted_Array.cpp.executor": "Run",
+    "C/C++ File.Hello_World.cpp.executor": "Run",
+    "C/C++ File.InsertAtBegin.cpp.executor": "Run",
+    "C/C++ File.InsertAtEnd.cpp.executor": "Run",
+    "C/C++ File.Leader_in_Array_Problem.cpp.executor": "Run",
+    "C/C++ File.LeftRotateArrayByD.cpp.executor": "Run",
+    "C/C++ File.MajorityElement.cpp.executor": "Run",
+    "C/C++ File.MaxConsicutiveOne.cpp.executor": "Run",
+    "C/C++ File.MaxDiffProblem.cpp.executor": "Run",
+    "C/C++ File.MaximumSubaraySum.cpp.executor": "Run",
+    "C/C++ File.MaximumSumOfSubarray.cpp.executor": "Run",
+    "C/C++ File.MoveZeroToEnd.cpp.executor": "Run",
+    "C/C++ File.ReverseKSize.cpp.executor": "Run",
+    "C/C++ File.ReverseLinkedList.cpp.executor": "Run",
+    "C/C++ File.SearchInLinkedList.cpp.executor": "Run",
+    "C/C++ File.StockSellBuy.cpp.executor": "Run",
+    "C/C++ File.TrappingRainWaterProblem.cpp.executor": "Run",
+    "C/C++ File.longestUniqueSubstring.cpp.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "F:/C++ Practice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\C++ Practice\LinkedList" />
@@ -101,15 +110,15 @@
       <recent name="F:\C++ Practice\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.ReverseLinkedList.cpp">
-    <configuration name="DeleteFirstNode.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="DeleteFirstNode.cpp" CONFIG_NAME="DeleteFirstNode.cpp">
-      <option name="sourceFile" value="LinkedList\Single Linked List\DeleteFirstNode.cpp" />
+  <component name="RunManager" selected="C/C++ File.ReverseKSize.cpp">
+    <configuration name="Circular_Linked_list.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="Circular_Linked_list.cpp" CONFIG_NAME="Circular_Linked_list.cpp">
+      <option name="sourceFile" value="LinkedList\Circular Linked List\Circular_Linked_list.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertAtBegin.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="InsertAtBegin.cpp" CONFIG_NAME="InsertAtBegin.cpp">
-      <option name="sourceFile" value="LinkedList\InsertAtBegin.cpp" />
+    <configuration name="DeleteFirstNode.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="DeleteFirstNode.cpp" CONFIG_NAME="DeleteFirstNode.cpp">
+      <option name="sourceFile" value="LinkedList\Single Linked List\DeleteFirstNode.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -120,25 +129,25 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseKSize.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="ReverseKSize.cpp" CONFIG_NAME="ReverseKSize.cpp">
+      <option name="sourceFile" value="LinkedList\Single Linked List\ReverseKSize.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReverseLinkedList.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="ReverseLinkedList.cpp" CONFIG_NAME="ReverseLinkedList.cpp">
       <option name="sourceFile" value="LinkedList\Single Linked List\ReverseLinkedList.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInLinkedList.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="SearchInLinkedList.cpp" CONFIG_NAME="SearchInLinkedList.cpp">
-      <option name="sourceFile" value="LinkedList\Single Linked List\SearchInLinkedList.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.ReverseKSize.cpp" />
+        <item itemvalue="C/C++ File.Circular_Linked_list.cpp" />
         <item itemvalue="C/C++ File.ReverseLinkedList.cpp" />
         <item itemvalue="C/C++ File.DeleteFirstNode.cpp" />
         <item itemvalue="C/C++ File.InsertAtEnd.cpp" />
-        <item itemvalue="C/C++ File.InsertAtBegin.cpp" />
-        <item itemvalue="C/C++ File.SearchInLinkedList.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +164,8 @@
       <workItem from="1748151914704" duration="206000" />
       <workItem from="1748152149522" duration="4227000" />
       <workItem from="1748278504285" duration="2225000" />
-      <workItem from="1748365030120" duration="1273000" />
+      <workItem from="1748365030120" duration="1964000" />
+      <workItem from="1748368212623" duration="749000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World">
       <option name="closed" value="true" />
