@@ -17,7 +17,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f83446d9-ea60-4489-b19b-84dec31780a9" name="Changes" comment="Hello World">
-      <change beforePath="$PROJECT_DIR$/LinkedList/InsertAtBegin.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/InsertAtBegin.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Single Linked List/DeleteFirstNode.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Single Linked List/ReverseLinkedList.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +46,6 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///AIAssistantSnippet.." root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///AIAssistantSnippet.." root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///AIAssistantSnippet.." root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///AIAssistantSnippet.." root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///AIAssistantSnippet.." root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -59,10 +57,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.DeleteFirstNode.cpp.executor": "Run",
     "C/C++ File.EquibriliumPoint.cpp.executor": "Run",
     "C/C++ File.Frequency_in_Sorted_Array.cpp.executor": "Run",
     "C/C++ File.Hello_World.cpp.executor": "Run",
     "C/C++ File.InsertAtBegin.cpp.executor": "Run",
+    "C/C++ File.InsertAtEnd.cpp.executor": "Run",
     "C/C++ File.Leader_in_Array_Problem.cpp.executor": "Run",
     "C/C++ File.LeftRotateArrayByD.cpp.executor": "Run",
     "C/C++ File.MajorityElement.cpp.executor": "Run",
@@ -71,6 +71,7 @@
     "C/C++ File.MaximumSubaraySum.cpp.executor": "Run",
     "C/C++ File.MaximumSumOfSubarray.cpp.executor": "Run",
     "C/C++ File.MoveZeroToEnd.cpp.executor": "Run",
+    "C/C++ File.ReverseLinkedList.cpp.executor": "Run",
     "C/C++ File.SearchInLinkedList.cpp.executor": "Run",
     "C/C++ File.StockSellBuy.cpp.executor": "Run",
     "C/C++ File.TrappingRainWaterProblem.cpp.executor": "Run",
@@ -96,12 +97,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\C++ Practice\LinkedList\Single Linked List" />
       <recent name="F:\C++ Practice\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.InsertAtBegin.cpp">
-    <configuration name="EquibriliumPoint.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="EquibriliumPoint.cpp" CONFIG_NAME="EquibriliumPoint.cpp">
-      <option name="sourceFile" value="Array\EquibriliumPoint.cpp" />
+  <component name="RunManager" selected="C/C++ File.ReverseLinkedList.cpp">
+    <configuration name="DeleteFirstNode.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="DeleteFirstNode.cpp" CONFIG_NAME="DeleteFirstNode.cpp">
+      <option name="sourceFile" value="LinkedList\Single Linked List\DeleteFirstNode.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -112,8 +114,14 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumSumOfSubarray.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="MaximumSumOfSubarray.cpp" CONFIG_NAME="MaximumSumOfSubarray.cpp">
-      <option name="sourceFile" value="Array\MaximumSumOfSubarray.cpp" />
+    <configuration name="InsertAtEnd.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="InsertAtEnd.cpp" CONFIG_NAME="InsertAtEnd.cpp">
+      <option name="sourceFile" value="LinkedList\Single Linked List\InsertAtEnd.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseLinkedList.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="ReverseLinkedList.cpp" CONFIG_NAME="ReverseLinkedList.cpp">
+      <option name="sourceFile" value="LinkedList\Single Linked List\ReverseLinkedList.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -124,19 +132,13 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="longestUniqueSubstring.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="longestUniqueSubstring.cpp" CONFIG_NAME="longestUniqueSubstring.cpp">
-      <option name="sourceFile" value="Array\longestUniqueSubstring.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.ReverseLinkedList.cpp" />
+        <item itemvalue="C/C++ File.DeleteFirstNode.cpp" />
+        <item itemvalue="C/C++ File.InsertAtEnd.cpp" />
         <item itemvalue="C/C++ File.InsertAtBegin.cpp" />
         <item itemvalue="C/C++ File.SearchInLinkedList.cpp" />
-        <item itemvalue="C/C++ File.EquibriliumPoint.cpp" />
-        <item itemvalue="C/C++ File.longestUniqueSubstring.cpp" />
-        <item itemvalue="C/C++ File.MaximumSumOfSubarray.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +154,7 @@
       <workItem from="1748100099025" duration="8518000" />
       <workItem from="1748151914704" duration="206000" />
       <workItem from="1748152149522" duration="4227000" />
-      <workItem from="1748278504285" duration="765000" />
+      <workItem from="1748278504285" duration="2225000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World">
       <option name="closed" value="true" />
