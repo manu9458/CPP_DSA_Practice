@@ -17,15 +17,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f83446d9-ea60-4489-b19b-84dec31780a9" name="Changes" comment="Hello World">
-      <change afterPath="$PROJECT_DIR$/LinkedList/Single Linked List/ReverseKSize.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Circular Linked List/DetectAndRemoveLoop.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Circular Linked List/DetectLoop.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Circular_Linked_list.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/DeleteFirstNode.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/InsertAtBegin.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/InsertAtEnd.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/ReverseLinkedList.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/SearchInLinkedList.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReverseLinkedList.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +59,8 @@
   "keyToString": {
     "C/C++ File.Circular_Linked_list.cpp.executor": "Run",
     "C/C++ File.DeleteFirstNode.cpp.executor": "Run",
+    "C/C++ File.DetectAndRemoveLoop.cpp.executor": "Run",
+    "C/C++ File.DetectLoop.cpp.executor": "Run",
     "C/C++ File.EquibriliumPoint.cpp.executor": "Run",
     "C/C++ File.Frequency_in_Sorted_Array.cpp.executor": "Run",
     "C/C++ File.Hello_World.cpp.executor": "Run",
@@ -110,21 +106,21 @@
       <recent name="F:\C++ Practice\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.ReverseKSize.cpp">
+  <component name="RunManager" selected="C/C++ File.DetectAndRemoveLoop.cpp">
     <configuration name="Circular_Linked_list.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="Circular_Linked_list.cpp" CONFIG_NAME="Circular_Linked_list.cpp">
       <option name="sourceFile" value="LinkedList\Circular Linked List\Circular_Linked_list.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteFirstNode.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="DeleteFirstNode.cpp" CONFIG_NAME="DeleteFirstNode.cpp">
-      <option name="sourceFile" value="LinkedList\Single Linked List\DeleteFirstNode.cpp" />
+    <configuration name="DetectAndRemoveLoop.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="DetectAndRemoveLoop.cpp" CONFIG_NAME="DetectAndRemoveLoop.cpp">
+      <option name="sourceFile" value="LinkedList\Circular Linked List\DetectAndRemoveLoop.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertAtEnd.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="InsertAtEnd.cpp" CONFIG_NAME="InsertAtEnd.cpp">
-      <option name="sourceFile" value="LinkedList\Single Linked List\InsertAtEnd.cpp" />
+    <configuration name="DetectLoop.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="DetectLoop.cpp" CONFIG_NAME="DetectLoop.cpp">
+      <option name="sourceFile" value="LinkedList\Circular Linked List\DetectLoop.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -143,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.DetectAndRemoveLoop.cpp" />
+        <item itemvalue="C/C++ File.DetectLoop.cpp" />
         <item itemvalue="C/C++ File.ReverseKSize.cpp" />
         <item itemvalue="C/C++ File.Circular_Linked_list.cpp" />
         <item itemvalue="C/C++ File.ReverseLinkedList.cpp" />
-        <item itemvalue="C/C++ File.DeleteFirstNode.cpp" />
-        <item itemvalue="C/C++ File.InsertAtEnd.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -166,6 +162,8 @@
       <workItem from="1748278504285" duration="2225000" />
       <workItem from="1748365030120" duration="1964000" />
       <workItem from="1748368212623" duration="749000" />
+      <workItem from="1748368990572" duration="354000" />
+      <workItem from="1748537789642" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World">
       <option name="closed" value="true" />
