@@ -16,11 +16,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f83446d9-ea60-4489-b19b-84dec31780a9" name="Changes" comment="Hello World">
-      <change afterPath="$PROJECT_DIR$/LinkedList/Circular Linked List/DetectAndRemoveLoop.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Circular Linked List/DetectLoop.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f83446d9-ea60-4489-b19b-84dec31780a9" name="Changes" comment="Hello World" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,7 +159,7 @@
       <workItem from="1748365030120" duration="1964000" />
       <workItem from="1748368212623" duration="749000" />
       <workItem from="1748368990572" duration="354000" />
-      <workItem from="1748537789642" duration="616000" />
+      <workItem from="1748537789642" duration="1326000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World">
       <option name="closed" value="true" />
