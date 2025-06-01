@@ -17,7 +17,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f83446d9-ea60-4489-b19b-84dec31780a9" name="Changes" comment="Hello World">
-      <change afterPath="$PROJECT_DIR$/String/CheckForAnagram.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/LeftmostNonRepeatingElement.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +131,7 @@
       <recent name="F:\C++ Practice\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.CheckForAnagram.cpp">
+  <component name="RunManager" selected="C/C++ File.LeftmostNonRepeatingElement.cpp">
     <configuration name="CheckForAnagram.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="CheckForAnagram.cpp" CONFIG_NAME="CheckForAnagram.cpp">
       <option name="sourceFile" value="String\CheckForAnagram.cpp" />
       <method v="2">
@@ -143,8 +144,8 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DetectAndRemoveLoop.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="DetectAndRemoveLoop.cpp" CONFIG_NAME="DetectAndRemoveLoop.cpp">
-      <option name="sourceFile" value="LinkedList\Circular Linked List\DetectAndRemoveLoop.cpp" />
+    <configuration name="LeftmostNonRepeatingElement.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="LeftmostNonRepeatingElement.cpp" CONFIG_NAME="LeftmostNonRepeatingElement.cpp">
+      <option name="sourceFile" value="String\LeftmostNonRepeatingElement.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -163,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.LeftmostNonRepeatingElement.cpp" />
         <item itemvalue="C/C++ File.CheckForAnagram.cpp" />
         <item itemvalue="C/C++ File.LeftmostRepeatigChar.cpp" />
         <item itemvalue="C/C++ File.CheckStrigSubSequence.cpp" />
         <item itemvalue="C/C++ File.PalidromCheck.cpp" />
-        <item itemvalue="C/C++ File.DetectAndRemoveLoop.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +189,7 @@
       <workItem from="1748368212623" duration="749000" />
       <workItem from="1748368990572" duration="354000" />
       <workItem from="1748537789642" duration="2937000" />
-      <workItem from="1748696963365" duration="2094000" />
+      <workItem from="1748696963365" duration="3478000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World">
       <option name="closed" value="true" />
