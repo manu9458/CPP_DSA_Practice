@@ -17,7 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f83446d9-ea60-4489-b19b-84dec31780a9" name="Changes" comment="Hello World">
-      <change afterPath="$PROJECT_DIR$/String/CheckStrigSubSequence.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/LeftmostRepeatigChar.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +78,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.CheckStrigSubSequence.cpp.executor": "Run",
     "C/C++ File.Circular_Linked_list.cpp.executor": "Run",
     "C/C++ File.DeleteFirstNode.cpp.executor": "Run",
     "C/C++ File.DetectAndRemoveLoop.cpp.executor": "Run",
@@ -89,6 +90,7 @@
     "C/C++ File.InsertAtEnd.cpp.executor": "Run",
     "C/C++ File.Leader_in_Array_Problem.cpp.executor": "Run",
     "C/C++ File.LeftRotateArrayByD.cpp.executor": "Run",
+    "C/C++ File.LeftmostRepeatigChar.cpp.executor": "Run",
     "C/C++ File.MajorityElement.cpp.executor": "Run",
     "C/C++ File.MaxConsicutiveOne.cpp.executor": "Run",
     "C/C++ File.MaxDiffProblem.cpp.executor": "Run",
@@ -128,7 +130,7 @@
       <recent name="F:\C++ Practice\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.CheckStrigSubSequence.cpp">
+  <component name="RunManager" selected="C/C++ File.LeftmostRepeatigChar.cpp">
     <configuration name="CheckStrigSubSequence.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="CheckStrigSubSequence.cpp" CONFIG_NAME="CheckStrigSubSequence.cpp">
       <option name="sourceFile" value="String\CheckStrigSubSequence.cpp" />
       <method v="2">
@@ -147,25 +149,25 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LeftmostRepeatigChar.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="LeftmostRepeatigChar.cpp" CONFIG_NAME="LeftmostRepeatigChar.cpp">
+      <option name="sourceFile" value="String\LeftmostRepeatigChar.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PalidromCheck.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="PalidromCheck.cpp" CONFIG_NAME="PalidromCheck.cpp">
       <option name="sourceFile" value="String\PalidromCheck.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseKSize.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="ReverseKSize.cpp" CONFIG_NAME="ReverseKSize.cpp">
-      <option name="sourceFile" value="LinkedList\Single Linked List\ReverseKSize.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.LeftmostRepeatigChar.cpp" />
         <item itemvalue="C/C++ File.CheckStrigSubSequence.cpp" />
         <item itemvalue="C/C++ File.PalidromCheck.cpp" />
         <item itemvalue="C/C++ File.DetectAndRemoveLoop.cpp" />
         <item itemvalue="C/C++ File.DetectLoop.cpp" />
-        <item itemvalue="C/C++ File.ReverseKSize.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +187,8 @@
       <workItem from="1748365030120" duration="1964000" />
       <workItem from="1748368212623" duration="749000" />
       <workItem from="1748368990572" duration="354000" />
-      <workItem from="1748537789642" duration="2123000" />
+      <workItem from="1748537789642" duration="2937000" />
+      <workItem from="1748696963365" duration="1731000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World">
       <option name="closed" value="true" />
