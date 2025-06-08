@@ -17,7 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f83446d9-ea60-4489-b19b-84dec31780a9" name="Changes" comment="Hello World">
-      <change afterPath="$PROJECT_DIR$/Recursion/Factorial.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/PrintSubsequenceArray.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,11 +102,13 @@
     "C/C++ File.MaximumSumOfSubarray.cpp.executor": "Run",
     "C/C++ File.MoveZeroToEnd.cpp.executor": "Run",
     "C/C++ File.PalidromCheck.cpp.executor": "Run",
+    "C/C++ File.PrintSubsequenceArray.cpp.executor": "Run",
     "C/C++ File.ReverseKSize.cpp.executor": "Run",
     "C/C++ File.ReverseLinkedList.cpp.executor": "Run",
     "C/C++ File.SearchInLinkedList.cpp.executor": "Run",
     "C/C++ File.StockSellBuy.cpp.executor": "Run",
     "C/C++ File.TrappingRainWaterProblem.cpp.executor": "Run",
+    "C/C++ File.fabbiano.cpp.executor": "Run",
     "C/C++ File.longestUniqueSubstring.cpp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
@@ -134,13 +136,7 @@
       <recent name="F:\C++ Practice\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.Factorial.cpp">
-    <configuration name="CheckForAnagram.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="CheckForAnagram.cpp" CONFIG_NAME="CheckForAnagram.cpp">
-      <option name="sourceFile" value="String\CheckForAnagram.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.PrintSubsequenceArray.cpp">
     <configuration name="CheckStrigRotation.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="CheckStrigRotation.cpp" CONFIG_NAME="CheckStrigRotation.cpp">
       <option name="sourceFile" value="String\CheckStrigRotation.cpp" />
       <method v="2">
@@ -159,19 +155,25 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeftmostRepeatigChar.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="LeftmostRepeatigChar.cpp" CONFIG_NAME="LeftmostRepeatigChar.cpp">
-      <option name="sourceFile" value="String\LeftmostRepeatigChar.cpp" />
+    <configuration name="PrintSubsequenceArray.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="PrintSubsequenceArray.cpp" CONFIG_NAME="PrintSubsequenceArray.cpp">
+      <option name="sourceFile" value="Recursion\PrintSubsequenceArray.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fabbiano.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="fabbiano.cpp" CONFIG_NAME="fabbiano.cpp">
+      <option name="sourceFile" value="Recursion\fabbiano.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.PrintSubsequenceArray.cpp" />
         <item itemvalue="C/C++ File.Factorial.cpp" />
+        <item itemvalue="C/C++ File.fabbiano.cpp" />
         <item itemvalue="C/C++ File.CheckStrigRotation.cpp" />
         <item itemvalue="C/C++ File.LeftmostNonRepeatingElement.cpp" />
-        <item itemvalue="C/C++ File.CheckForAnagram.cpp" />
-        <item itemvalue="C/C++ File.LeftmostRepeatigChar.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +197,7 @@
       <workItem from="1748696963365" duration="3727000" />
       <workItem from="1749005827949" duration="889000" />
       <workItem from="1749279358259" duration="616000" />
-      <workItem from="1749292378494" duration="1027000" />
+      <workItem from="1749292378494" duration="4264000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World">
       <option name="closed" value="true" />
