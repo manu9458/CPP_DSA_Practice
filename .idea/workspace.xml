@@ -17,6 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f83446d9-ea60-4489-b19b-84dec31780a9" name="Changes" comment="Hello World">
+      <change afterPath="$PROJECT_DIR$/Recursion/PrintSubWhosSumK.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,11 +102,13 @@
     "C/C++ File.MaximumSumOfSubarray.cpp.executor": "Run",
     "C/C++ File.MoveZeroToEnd.cpp.executor": "Run",
     "C/C++ File.PalidromCheck.cpp.executor": "Run",
+    "C/C++ File.PrintSubWhosSumK.cpp.executor": "Run",
     "C/C++ File.PrintSubsequenceArray.cpp.executor": "Run",
     "C/C++ File.ReverseKSize.cpp.executor": "Run",
     "C/C++ File.ReverseLinkedList.cpp.executor": "Run",
     "C/C++ File.SearchInLinkedList.cpp.executor": "Run",
     "C/C++ File.StockSellBuy.cpp.executor": "Run",
+    "C/C++ File.StringSubsequence.cpp.executor": "Run",
     "C/C++ File.TrappingRainWaterProblem.cpp.executor": "Run",
     "C/C++ File.fabbiano.cpp.executor": "Run",
     "C/C++ File.longestUniqueSubstring.cpp.executor": "Run",
@@ -135,27 +138,27 @@
       <recent name="F:\C++ Practice\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.PrintSubsequenceArray.cpp">
-    <configuration name="CheckStrigRotation.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="CheckStrigRotation.cpp" CONFIG_NAME="CheckStrigRotation.cpp">
-      <option name="sourceFile" value="String\CheckStrigRotation.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.PrintSubWhosSumK.cpp">
     <configuration name="Factorial.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="Factorial.cpp" CONFIG_NAME="Factorial.cpp">
       <option name="sourceFile" value="Recursion\Factorial.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeftmostNonRepeatingElement.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="LeftmostNonRepeatingElement.cpp" CONFIG_NAME="LeftmostNonRepeatingElement.cpp">
-      <option name="sourceFile" value="String\LeftmostNonRepeatingElement.cpp" />
+    <configuration name="PrintSubWhosSumK.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="PrintSubWhosSumK.cpp" CONFIG_NAME="PrintSubWhosSumK.cpp">
+      <option name="sourceFile" value="Recursion\PrintSubWhosSumK.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="PrintSubsequenceArray.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="PrintSubsequenceArray.cpp" CONFIG_NAME="PrintSubsequenceArray.cpp">
       <option name="sourceFile" value="Recursion\PrintSubsequenceArray.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringSubsequence.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="StringSubsequence.cpp" CONFIG_NAME="StringSubsequence.cpp">
+      <option name="sourceFile" value="Recursion\StringSubsequence.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -168,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.PrintSubWhosSumK.cpp" />
+        <item itemvalue="C/C++ File.StringSubsequence.cpp" />
         <item itemvalue="C/C++ File.PrintSubsequenceArray.cpp" />
         <item itemvalue="C/C++ File.Factorial.cpp" />
         <item itemvalue="C/C++ File.fabbiano.cpp" />
-        <item itemvalue="C/C++ File.CheckStrigRotation.cpp" />
-        <item itemvalue="C/C++ File.LeftmostNonRepeatingElement.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +199,7 @@
       <workItem from="1748696963365" duration="3727000" />
       <workItem from="1749005827949" duration="889000" />
       <workItem from="1749279358259" duration="616000" />
-      <workItem from="1749292378494" duration="5660000" />
+      <workItem from="1749292378494" duration="7564000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World">
       <option name="closed" value="true" />
