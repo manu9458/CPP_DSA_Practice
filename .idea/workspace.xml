@@ -17,7 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f83446d9-ea60-4489-b19b-84dec31780a9" name="Changes" comment="Hello World">
-      <change afterPath="$PROJECT_DIR$/Recursion/PrintSubWhosSumK.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/AllPermutation.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +78,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.AllPermutation.cpp.executor": "Run",
     "C/C++ File.CheckForAnagram.cpp.executor": "Run",
     "C/C++ File.CheckStrigRotation.cpp.executor": "Run",
     "C/C++ File.CheckStrigSubSequence.cpp.executor": "Run",
@@ -128,6 +129,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -138,7 +140,13 @@
       <recent name="F:\C++ Practice\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.PrintSubWhosSumK.cpp">
+  <component name="RunManager" selected="C/C++ File.AllPermutation.cpp">
+    <configuration name="AllPermutation.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="AllPermutation.cpp" CONFIG_NAME="AllPermutation.cpp">
+      <option name="sourceFile" value="Recursion\AllPermutation.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Factorial.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="Factorial.cpp" CONFIG_NAME="Factorial.cpp">
       <option name="sourceFile" value="Recursion\Factorial.cpp" />
       <method v="2">
@@ -163,19 +171,13 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fabbiano.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ Practice" TARGET_NAME="fabbiano.cpp" CONFIG_NAME="fabbiano.cpp">
-      <option name="sourceFile" value="Recursion\fabbiano.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.AllPermutation.cpp" />
         <item itemvalue="C/C++ File.PrintSubWhosSumK.cpp" />
         <item itemvalue="C/C++ File.StringSubsequence.cpp" />
         <item itemvalue="C/C++ File.PrintSubsequenceArray.cpp" />
         <item itemvalue="C/C++ File.Factorial.cpp" />
-        <item itemvalue="C/C++ File.fabbiano.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +201,9 @@
       <workItem from="1748696963365" duration="3727000" />
       <workItem from="1749005827949" duration="889000" />
       <workItem from="1749279358259" duration="616000" />
-      <workItem from="1749292378494" duration="7564000" />
+      <workItem from="1749292378494" duration="8040000" />
+      <workItem from="1749360328117" duration="134000" />
+      <workItem from="1749830158025" duration="1112000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World">
       <option name="closed" value="true" />
